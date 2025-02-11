@@ -38,7 +38,7 @@ Above is the CASIA-WebFace dataset, with images already cropped using the <a hre
 
 Above is the IJB-C dataset before processing, which should be processed in ```IJBC_process.py``` to achieve the structure ```ROOT/SUBJECT_NAME/image.jpg```.
 
-The face dataset must have the structure ```ROOT/SUBJECT_NAME/image.jpg```. To use your own dataset, please refer to [Your Dataset, Click Here!](../docs/prepare_custom_dataset.md).
+The face dataset must have the structure ```ROOT/SUBJECT_NAME/image.jpg```. To use your own dataset, please refer to [Your Dataset, Click Here!](./docs/prepare_custom_dataset.md).
 
 After downloading, change the ```dataset_config``` and ```encoder_config``` in ```config.py``` accordingly.
 
